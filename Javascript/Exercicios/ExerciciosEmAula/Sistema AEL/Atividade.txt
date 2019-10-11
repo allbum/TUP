@@ -1,0 +1,13 @@
+Tenho um cliente chamado João
+João precisa de um sistema para armazenar o seu estoque de laranjas, por isso.
+
+Faça um programa onde seja possível digitar:
+Tipo da laranja: ___
+Quantidade: __
+Preço de compra:______
+Preço de venda: ___
+
+No final do programa dê um relatório, separado por tipo de laranja, exemplo:
+
+Laranja pera: quantidade x e valor total y
+Laranja lima: quantidade x e valor total y
