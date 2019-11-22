@@ -17,6 +17,7 @@ preencher(laranjas_db)
        console.log('\033[2J');
 } */
 //teste git
+//teste 2
 console.log(laranjas_db); 
 
 
